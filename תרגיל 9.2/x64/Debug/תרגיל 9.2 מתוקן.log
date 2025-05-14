@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 1\תרגיל 9.2 מתוקן\Source.cpp(14,7): error C2512: 'Book': no appropriate default constructor available
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 1\תרגיל 9.2 מתוקן\Book.h(5,7): message : see declaration of 'Book'
