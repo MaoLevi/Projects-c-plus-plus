@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  Vector.cpp
+  Generating Code...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 1\תרגיל 3\x64\Debug\תרגיל 3.exe : fatal error LNK1120: 1 unresolved externals
