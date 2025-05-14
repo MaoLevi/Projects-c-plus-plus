@@ -1,0 +1,3 @@
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 1\Project5\x64\Debug\Project5.exe
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 1\Project5\x64\Debug\Project5.exe.lastcodeanalysissucceeded
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 1\Project5\x64\Debug\NativeCodeAnalysis.read.1.tlog
