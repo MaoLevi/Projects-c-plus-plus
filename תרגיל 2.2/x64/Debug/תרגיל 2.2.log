@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 1\תרגיל 2.2\Source.cpp(67,6): error C2664: 'void Vector::assign(Vector)': cannot convert argument 1 from 'void' to 'Vector'
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 1\תרגיל 2.2\Source.cpp(67,26): message : Expressions of type void cannot be converted to other types
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 1\תרגיל 2.2\Vector.h(19,7): message : see declaration of 'Vector::assign'
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 1\תרגיל 2.2\Source.cpp(67,6): message : while trying to match the argument list '(void)'
+  Vector.cpp
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 1\תרגיל 2.2\Vector.cpp(19,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...

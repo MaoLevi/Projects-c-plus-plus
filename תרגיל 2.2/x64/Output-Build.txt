@@ -1,0 +1,10 @@
+﻿Build started...
+1>------ Build started: Project: תרגיל 3, Configuration: Debug x64 ------
+1>Source.cpp
+1>Vector.cpp
+1>Generating Code...
+1>MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+1>C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 1\תרגיל 3\x64\Debug\תרגיל 3.exe : fatal error LNK1120: 1 unresolved externals
+1>Done building project "תרגיל 3.vcxproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+========== Elapsed 00:01.618 ==========

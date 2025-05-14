@@ -1,0 +1,43 @@
+﻿  employ.cpp
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(4,6): error C2653: 'employ': is not a class or namespace name
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(5,2): error C2065: 'id': undeclared identifier
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(7,6): error C2653: 'employ': is not a class or namespace name
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(8,11): error C2065: 'name': undeclared identifier
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(10,6): error C2653: 'employ': is not a class or namespace name
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(11,2): error C2065: 'wage_h': undeclared identifier
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(13,6): error C2653: 'employ': is not a class or namespace name
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(14,2): error C2065: 'work_h': undeclared identifier
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(16,6): error C2653: 'employ': is not a class or namespace name
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(17,2): error C2065: 'sum': undeclared identifier
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(19,8): error C2653: 'employ': is not a class or namespace name
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(46,5): error C2653: 'employ': is not a class or namespace name
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(47,9): error C2065: 'id': undeclared identifier
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(49,7): error C2653: 'employ': is not a class or namespace name
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(50,9): error C2065: 'name': undeclared identifier
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(52,7): error C2653: 'employ': is not a class or namespace name
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(53,9): error C2065: 'wage_h': undeclared identifier
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(55,5): error C2653: 'employ': is not a class or namespace name
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(56,9): error C2065: 'work_h': undeclared identifier
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(58,7): error C2653: 'employ': is not a class or namespace name
+  Source.cpp
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(4,6): error C2653: 'employ': is not a class or namespace name
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(5,2): error C2065: 'id': undeclared identifier
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(7,6): error C2653: 'employ': is not a class or namespace name
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(8,11): error C2065: 'name': undeclared identifier
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(10,6): error C2653: 'employ': is not a class or namespace name
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(11,2): error C2065: 'wage_h': undeclared identifier
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(13,6): error C2653: 'employ': is not a class or namespace name
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(14,2): error C2065: 'work_h': undeclared identifier
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(16,6): error C2653: 'employ': is not a class or namespace name
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(17,2): error C2065: 'sum': undeclared identifier
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(19,8): error C2653: 'employ': is not a class or namespace name
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(46,5): error C2653: 'employ': is not a class or namespace name
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(47,9): error C2065: 'id': undeclared identifier
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(49,7): error C2653: 'employ': is not a class or namespace name
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(50,9): error C2065: 'name': undeclared identifier
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(52,7): error C2653: 'employ': is not a class or namespace name
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(53,9): error C2065: 'wage_h': undeclared identifier
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(55,5): error C2653: 'employ': is not a class or namespace name
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(56,9): error C2065: 'work_h': undeclared identifier
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 2\תרגיל 2\Project1\employ.cpp(58,7): error C2653: 'employ': is not a class or namespace name
+  Generating Code...
