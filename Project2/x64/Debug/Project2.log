@@ -1,0 +1,7 @@
+﻿  FileName.cpp
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 1\Project2\FileName.cpp(77,6): warning C4101: 'x': unreferenced local variable
+  List2.cpp
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 1\Project2\List2.cpp(111,9): warning C4553: '==': result of expression not used; did you intend '='?
+  Generating Code...
+C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 1\Project2\List2.cpp(60): warning C4715: 'List2::operator=': not all control paths return a value
+  Project2.vcxproj -> C:\Users\MAORL\Desktop\סדנא\New folder\תרגיל 1\Project2\x64\Debug\Project2.exe
